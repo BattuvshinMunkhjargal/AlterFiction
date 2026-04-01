@@ -46,4 +46,4 @@ ensure that you may interact with it, try to interact it from the top,
 like standing on it, this might help.
 
 ## Preview
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](screenshot.PNG)
