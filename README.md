@@ -3,6 +3,8 @@
 **3D horror puzzle game developed in Python using the Ursina engine.**  
 A project combining immersive environments, custom assets and interactive gameplay mechanics.
 
+> ⚠️ For full experience, download full project from Google Drive.
+
 ---
 
 ## 🎬 Trailer
