@@ -44,3 +44,6 @@ follow these rules.
 When playing the game, you might struggle to interact with an objet, to
 ensure that you may interact with it, try to interact it from the top,
 like standing on it, this might help.
+
+## Preview
+![Gameplay Screenshot](screenshot.png)
