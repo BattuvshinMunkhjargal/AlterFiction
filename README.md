@@ -69,3 +69,66 @@ https://www.python.org/downloads/
 Install Ursina:
 ```bash
 pip install ursina
+```
+
+---
+
+### Launch the Game
+
+```bash
+python alterfiction.py
+```
+
+---
+
+## 🎮 Controls
+
+- **ZQSD** → Move  
+- **E** → Interact / Exit interaction  
+- **F** → Flashlight  
+- **O** → Skip introduction  
+
+Some interactions may require mouse input.
+
+---
+
+## 📂 Full Project
+
+The complete version of the project (including assets such as audio, models and textures) is available here:  
+https://drive.google.com/drive/folders/1ct0BEjwiRT5X86IbiEQgVXYYPB10Qsj3?usp=sharing
+
+---
+
+## 🧩 Performance Notes
+
+- Loading times may vary depending on your computer  
+- Avoid interacting repeatedly during loading  
+- Avoid switching windows while loading  
+
+---
+
+## 📘 Notes
+
+Some parts of the code include comments in French due to the context in which the project was developed.  
+However, the structure and logic remain clear and understandable.
+
+---
+
+## 📈 What I Learned
+
+- Structuring and organizing a large-scale project  
+- Working with 3D environments and assets  
+- Implementing gameplay systems and interactions  
+- Debugging and solving complex technical issues  
+- Collaborating effectively within a team  
+
+---
+
+## 🔮 Future Improvements
+
+- Improve performance and loading times  
+- Enhance graphics and visual effects  
+- Add new maps and gameplay mechanics  
+- Refactor parts of the code for better scalability  
+
+---
