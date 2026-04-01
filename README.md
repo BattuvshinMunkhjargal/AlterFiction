@@ -1,49 +1,71 @@
-=== ALTERFICTION === Authors: Ithushan INPAKUMAR, Eddy WANG CHENG,
-Battuvshin MUNKHJARGAL By TAPE ENTERTAINMENT
+# AlterFiction
 
-== REQUIRES == Screen isn't shown fully on MacBooks. We recommend you
-playing on windows. Python 3.11
+**3D horror puzzle game developed in Python using the Ursina engine.**  
+A project combining immersive environments, custom assets and interactive gameplay mechanics.
 
-\- HOW TO INSTALL PYTHON  1. Download it in:
+---
+
+## 🎬 Trailer
+Watch the game trailer:  
+https://youtu.be/TwoBgaMWtTw?si=bpNOpaehQBri_5-b
+
+---
+
+## 🖼️ Preview
+![Gameplay Screenshot](screenshot.PNG)
+
+---
+
+## 📌 Project Overview
+
+AlterFiction is a 3D horror puzzle game where players explore different environments, solve puzzles and interact with objects to progress through the game.
+
+The project features:
+- Multiple maps and levels  
+- Puzzle-based progression  
+- Interactive objects and mechanics  
+- Custom-made 3D models and sound effects  
+- An original narrative and atmosphere  
+
+---
+
+## 🧠 Context
+
+This project was developed over several months as part of a school project, in collaboration with a team.  
+It involved the full development cycle of a game: design, programming, asset integration and testing.
+
+---
+
+## 👥 Authors
+
+- Ithushan Inpakumar  
+- Eddy Wang Cheng  
+- Battuvshin Munkhjargal  
+
+---
+
+## ⚙️ Technologies Used
+
+- Python  
+- Ursina Engine  
+
+---
+
+## 🚀 How to Run
+
+### Requirements
+- Python 3.11  
+- Ursina Engine  
+
+⚠️ Note: The game may not display correctly on some MacBooks. A Windows environment is recommended.
+
+---
+
+### Installation
+
+Install Python:  
 https://www.python.org/downloads/
 
-Ursina Engine
-
-\- HOW TO INSTALL URSINA  1. Requires Python 3.10 at least 2. Open
-CMD/Terminal and type : pip install ursina
-
-=== DESCRIPTION === Alterfiction is a horror game made fully by our team
-for a class project. With an original story, every models and mostly
-every sound effect are made by us.
-
-=== START === To launch the game, launch the programm Game.py
-
-=== CONTROLS ===
-
-ZQSD to move E to interact and to quit any interaction F to use
-flashlight To interact with something, sometime you need to use your
-mouse or use your keyboard. Press O to skip the introduction (although
-we recommend you to watch it at least once)
-
-=== ADDITIONAL INFORMATIONS ===
-
-Some parts of the game may requires some times to load depending on your
-computer's performance. For example, loading the next map might take
-some times to show up, it is normal so don't try to crash your game
-while it is still loading.
-
-We recommend you to follow these rules in order to not crash your
-computer: -Do not click anywhere and a lot when it is loading -Do not
-try to change the window of your game to another one -Do not press your
-keyboard's keys
-
-Of course, you can do these actions if you have a good performant
-computer, but for any unexpecting cases, we highly recommend you to
-follow these rules.
-
-When playing the game, you might struggle to interact with an objet, to
-ensure that you may interact with it, try to interact it from the top,
-like standing on it, this might help.
-
-## Preview
-![Gameplay Screenshot](screenshot.PNG)
+Install Ursina:
+```bash
+pip install ursina
